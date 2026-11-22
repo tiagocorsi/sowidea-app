@@ -11,6 +11,7 @@ Versão mais recente: [Releases](https://github.com/tiagocorsi/sowidea-app/relea
 
 ## Android
 
+- [1.58.0.117-da880bd](android/1.58.0.117-da880bd/) · [baixar](android/1.58.0.117-da880bd/SOWIDEA-1.58.0.117-da880bd.apk?raw=1)
 - [1.57.1.116-ef6c0a7](android/1.57.1.116-ef6c0a7/) · [baixar](android/1.57.1.116-ef6c0a7/SOWIDEA-1.57.1.116-ef6c0a7.apk?raw=1)
 - [1.57.0.115-426da3e](android/1.57.0.115-426da3e/) · [baixar](android/1.57.0.115-426da3e/SOWIDEA-1.57.0.115-426da3e.apk?raw=1)
 - [1.56.2.114-ee5f9eb](android/1.56.2.114-ee5f9eb/) · [baixar](android/1.56.2.114-ee5f9eb/SOWIDEA-1.56.2.114-ee5f9eb.apk?raw=1)
