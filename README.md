@@ -7,12 +7,13 @@ android/<versão>/SOWIDEA-<versão>.apk
 ios/<versão>/        (em breve)
 ```
 
-**[Baixar o APK mais recente (1.60.1.120-6b768c3)](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.1.120-6b768c3/SOWIDEA-1.60.1.120-6b768c3.apk)**
+**[Baixar o APK mais recente (1.60.2.121-bb5102f)](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.2.121-bb5102f/SOWIDEA-1.60.2.121-bb5102f.apk)**
 
 Todas as versões também estão em [Releases](https://github.com/tiagocorsi/sowidea-app/releases).
 
 ## Android
 
+- [1.60.2.121-bb5102f](android/1.60.2.121-bb5102f/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.2.121-bb5102f/SOWIDEA-1.60.2.121-bb5102f.apk)
 - [1.60.1.120-6b768c3](android/1.60.1.120-6b768c3/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.1.120-6b768c3/SOWIDEA-1.60.1.120-6b768c3.apk)
 - [1.60.0.119-2e99dc6](android/1.60.0.119-2e99dc6/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.0.119-2e99dc6/SOWIDEA-1.60.0.119-2e99dc6.apk)
 - [1.59.0.118-2520584](android/1.59.0.118-2520584/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.59.0.118-2520584/SOWIDEA-1.59.0.118-2520584.apk)
