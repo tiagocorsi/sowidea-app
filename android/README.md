@@ -1,5 +1,6 @@
 ## Android
 
+- [1.61.0.122-aca39a9](1.61.0.122-aca39a9/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.61.0.122-aca39a9/SOWIDEA-1.61.0.122-aca39a9.apk)
 - [1.60.2.121-bb5102f](1.60.2.121-bb5102f/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.2.121-bb5102f/SOWIDEA-1.60.2.121-bb5102f.apk)
 - [1.60.1.120-6b768c3](1.60.1.120-6b768c3/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.1.120-6b768c3/SOWIDEA-1.60.1.120-6b768c3.apk)
 - [1.60.0.119-2e99dc6](1.60.0.119-2e99dc6/) · [baixar](https://github.com/tiagocorsi/sowidea-app/releases/download/android-v1.60.0.119-2e99dc6/SOWIDEA-1.60.0.119-2e99dc6.apk)
